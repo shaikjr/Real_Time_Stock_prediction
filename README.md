@@ -1,4 +1,4 @@
-Real-Time Stock Market Analysis using LSTM
+#Real-Time Stock Market Analysis using LSTM
 Team Members:
 Shaik Mahaboob - 20211CEI0142
 Upparapalli Bhavesh Sai - 20211CEI9001
